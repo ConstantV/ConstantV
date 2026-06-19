@@ -10,7 +10,7 @@ Currently running [PMXL](https://constantverweij.nl) and building Metis.
 
 ## What I'm Building
 
-**[Metis](https://github.com/ConstantV/Metis_New)** — A platform by Maran Solutions for preparing and managing lareg projects like Turnarounds in the petro chemical industry. Currently in active development for 2026.
+**[Metis](https://github.com/ConstantV/Metis_New)** — A platform by Maran Solutions for preparing and managing large projects like Turnarounds in the (petro-)chemical industry. Currently in active development for 2026.
 
 **[LifeOS](https://github.com/ConstantV/LifeOS)** — My personal AI operating system built on Obsidian. A digital assistant that learns my workflows, manages knowledge, and surfaces what matters.
 
